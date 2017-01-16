@@ -1,0 +1,16 @@
+{
+  "name": "chicking-bot",
+  "version": "0.0.0",
+  "private": true,
+
+  "author": "Gz <gz.us.to@gmail.com>",
+
+  "description": "A simple robot for godofchicken slack",
+
+  "dependencies": {
+  },
+
+  "engines": {
+    "node": "0.10.x"
+  }
+}
