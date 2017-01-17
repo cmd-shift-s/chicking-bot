@@ -1,3 +1,8 @@
+# Description:
+#   Get an url of chicken image of random
+#
+# Commands:
+#   hubot chicken - Get an url of chicken image of random
 
 randomImageUrl = "http://random-image.ga/info/google/"
 
