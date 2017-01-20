@@ -9,6 +9,10 @@ lastVersion = null
 delay = 600000 # 10 mins
 
 module.exports = (robot) ->
+  robot.hear /^vue --latest$/i, (msg) ->
+    msg.send 'latest version: ' + lastVersion.substring 1
+
+  # start get version
   getVersion robot
 
 getVersion = (robot) ->
