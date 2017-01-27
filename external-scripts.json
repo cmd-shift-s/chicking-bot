@@ -1,6 +1,4 @@
 [
   "hubot-diagnostics",
-  "hubot-help",
-  "hubot-pugme",
-  "hubot-rules"
+  "hubot-help"
 ]
